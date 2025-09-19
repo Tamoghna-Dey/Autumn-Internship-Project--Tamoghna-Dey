@@ -1,0 +1,1 @@
+The Repository Contains my project report, colab notebook, dataset used and the video demonstration for my IDEAS internship. I have used an additional dataset containing kolkata house prices available online for my model building.
